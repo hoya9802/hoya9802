@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**hoya9802/hoya9802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Euntaek's%20GitHub%20👋&animation=twinkling&fontSize=33&fontAlignY=40&fontAlign=70&height=250)
+###  🧑🏻‍💻 I am a student with a strong interest in deep learning and computer vision ! 🧑🏻‍💻
+ <br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🛠️ Tech Stack 🛠️
+  <div style="display:flex; flex-direction:column; align-items:flex-start;">
+  <!-- Main Language -->
+  <p><strong>Main Language</strong></p>
+  <div>
+      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+  </div>
+  <!-- Framework -->
+  <p><strong>Framework</strong></p>
+  <div>
+      <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> 
+      <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> 
+      <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><br/>
+      <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+      <img src="https://img.shields.io/badge/openai gym-0081A5?style=for-the-badge&logo=openai gym&logoColor=white">
+  </div>
+
+  ## 🔥 My Hits 🔥
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoya9802&count_bg=%23224AEC&title_bg=%23000000&icon=github.svg&icon_color=%23224AEC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
