@@ -30,4 +30,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hoya9802)](https://solved.ac/{handle})
 </div>
 
-<img src="https://github.com/hoya9802/hoya9802/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/hoya9802/hoya9802/blob/output/github-snake-dark.svg"/>
