@@ -7,10 +7,11 @@
 
   ## 🛠️ Tech Stack 🛠️
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
-  <!-- Main Language -->
-  <p><strong>Main Language</strong></p>
+  <!--Language -->
+  <p><strong>Language</strong></p>
   <div>
       <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+      <img src="https://img.shields.io/badge/C-4000FF?style=for-the-badge&logo=c&logoColor=white">
   </div>
   <!-- AI Framework -->
   <p><strong>AI</strong></p>
@@ -30,8 +31,13 @@
   <div>
      <img src="https://img.shields.io/badge/MYSQL-086A87?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
+  <p><strong>Embedded System</strong></p>
+  <div>
+     <img src="https://img.shields.io/badge/Arduino-01DFA5?style=for-the-badge&logo=arduino&logoColor=white">
+     <img src="https://img.shields.io/badge/RaspberryPi-FE2E2E?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  </div>
 
-  ## 🔥 My Hits 🔥
+## 🔥 My Hits 🔥
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoya9802&count_bg=%23224AEC&title_bg=%23000000&icon=github.svg&icon_color=%23224AEC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
