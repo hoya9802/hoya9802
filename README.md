@@ -21,11 +21,14 @@
       <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><br/>
       <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
       <img src="https://img.shields.io/badge/openai gym-0081A5?style=for-the-badge&logo=openai gym&logoColor=white">
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   </div>
   <p><strong>Web</strong></p>
   <div>
      <img src="https://img.shields.io/badge/DJANGO-0B3B0B?style=for-the-badge&logo=django&logoColor=white">
+     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
      <img src="https://img.shields.io/badge/HTML-FF8000?style=for-the-badge&logo=html5&logoColor=white">
+     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   </div>
   <p><strong>Datebase</strong></p>
   <div>
