@@ -21,7 +21,6 @@
       <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> 
       <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><br/>
       <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-      <img src="https://img.shields.io/badge/openai gym-0081A5?style=for-the-badge&logo=openai gym&logoColor=white">
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   </div>
   <p><strong>Web</strong></p>
