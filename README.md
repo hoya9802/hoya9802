@@ -50,7 +50,7 @@
   </div>
 
 ## 🔥 My Hits 🔥
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoya9802&count_bg=%23224AEC&title_bg=%23000000&icon=github.svg&icon_color=%23224AEC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fhoya9802?color=blue&label=hits&size=medium)](https://myhits.vercel.app)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoya9802&layout=compact&theme=dark)
